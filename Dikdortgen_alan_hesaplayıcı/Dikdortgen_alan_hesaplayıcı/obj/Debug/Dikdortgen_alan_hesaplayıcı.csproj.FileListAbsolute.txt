@@ -1,0 +1,8 @@
+C:\Users\özhan\Desktop\projeler\Dikdortgen_alan_hesaplayıcı\Dikdortgen_alan_hesaplayıcı\bin\Debug\Dikdortgen_alan_hesaplayıcı.exe.config
+C:\Users\özhan\Desktop\projeler\Dikdortgen_alan_hesaplayıcı\Dikdortgen_alan_hesaplayıcı\bin\Debug\Dikdortgen_alan_hesaplayıcı.exe
+C:\Users\özhan\Desktop\projeler\Dikdortgen_alan_hesaplayıcı\Dikdortgen_alan_hesaplayıcı\bin\Debug\Dikdortgen_alan_hesaplayıcı.pdb
+C:\Users\özhan\Desktop\projeler\Dikdortgen_alan_hesaplayıcı\Dikdortgen_alan_hesaplayıcı\obj\Debug\Dikdortgen_alan_hesaplayıcı.csproj.AssemblyReference.cache
+C:\Users\özhan\Desktop\projeler\Dikdortgen_alan_hesaplayıcı\Dikdortgen_alan_hesaplayıcı\obj\Debug\Dikdortgen_alan_hesaplayıcı.csproj.SuggestedBindingRedirects.cache
+C:\Users\özhan\Desktop\projeler\Dikdortgen_alan_hesaplayıcı\Dikdortgen_alan_hesaplayıcı\obj\Debug\Dikdortgen_alan_hesaplayıcı.csproj.CoreCompileInputs.cache
+C:\Users\özhan\Desktop\projeler\Dikdortgen_alan_hesaplayıcı\Dikdortgen_alan_hesaplayıcı\obj\Debug\Dikdortgen_alan_hesaplayıcı.exe
+C:\Users\özhan\Desktop\projeler\Dikdortgen_alan_hesaplayıcı\Dikdortgen_alan_hesaplayıcı\obj\Debug\Dikdortgen_alan_hesaplayıcı.pdb
